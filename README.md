@@ -1,7 +1,7 @@
 # ИИ-ассистент для строительной компании по записи на консультацию
 
 Ссылка на проект - (https://t.me/karpro_bot)
-![Иллюстрация к проекту](https://example.com/image.png)
+![Скриншот 1]([https://example.com/image.png](https://github.com/Olmanov/Ai_Assistent/blob/main/Бот%20Карельский%20Профиль.png?raw=true))
 
 ## Описание проекта
 
